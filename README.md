@@ -9,7 +9,7 @@ Autologin is a package built specifically for Laravel 4/5 that will allow you to
 
 Pop this in your `composer.json` file and run `composer update` (this might differ depending on how or where you installed Composer).
 
-    composer require watson/autologin
+    composer require uar-daniel-gafitescu/autologin
 
 Now, add the Autologin service provider to your `app/config/app.php` file.
 
