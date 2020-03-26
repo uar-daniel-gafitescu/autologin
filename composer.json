@@ -10,9 +10,9 @@
         }
     ],
     "require": {
-        "php": ">=7.2.0",
-        "illuminate/contracts": "v7.2.0",
-        "illuminate/support": "v7.2.0",
+        "php": ">=7.2",
+        "illuminate/contracts": "v7.0.0",
+        "illuminate/support": "v7.0.0",
         "nesbot/carbon": "1.*"
     },
     "require-dev": {
